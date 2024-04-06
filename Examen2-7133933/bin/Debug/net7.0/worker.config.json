@@ -1,0 +1,10 @@
+{
+  "description": {
+    "language": "dotnet-isolated",
+    "extensions": [ ".dll" ],
+    "defaultExecutablePath": "dotnet",
+    "defaultWorkerPath": "Examen2-7133933.dll",
+    "workerIndexing": "true",
+    "canUsePlaceholder": true
+  }
+}
